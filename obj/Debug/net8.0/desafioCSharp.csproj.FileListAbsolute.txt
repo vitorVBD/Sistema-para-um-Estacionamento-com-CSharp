@@ -1,0 +1,14 @@
+C:\Aulas\desafioCSharp\bin\Debug\net8.0\desafioCSharp.exe
+C:\Aulas\desafioCSharp\bin\Debug\net8.0\desafioCSharp.deps.json
+C:\Aulas\desafioCSharp\bin\Debug\net8.0\desafioCSharp.runtimeconfig.json
+C:\Aulas\desafioCSharp\bin\Debug\net8.0\desafioCSharp.dll
+C:\Aulas\desafioCSharp\bin\Debug\net8.0\desafioCSharp.pdb
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\desafioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\desafioCSharp.AssemblyInfoInputs.cache
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\desafioCSharp.AssemblyInfo.cs
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\desafioCSharp.csproj.CoreCompileInputs.cache
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\desafioCSharp.dll
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\refint\desafioCSharp.dll
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\desafioCSharp.pdb
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\desafioCSharp.genruntimeconfig.cache
+C:\Aulas\desafioCSharp\obj\Debug\net8.0\ref\desafioCSharp.dll
